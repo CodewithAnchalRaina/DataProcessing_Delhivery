@@ -50,6 +50,10 @@ This comparison revealed how well the OSRM (open-source routing engine) time est
 
 ![output (2)](https://github.com/user-attachments/assets/dc1cf636-d92b-49a9-af10-e3111bdbda26)
 
+![actual distance vs segment OSMR distance](https://github.com/user-attachments/assets/a855d2ab-fab5-4a28-9bcc-e7525558dba2)
+
+![OSRM time vs Segment OSRM time](https://github.com/user-attachments/assets/3812c714-8c52-46d8-aa50-71d3b94c4f84)
+
 **Outlier Detection Using the IQR Method:**
 
 Detecting and visualizing outliers helped identify unusual deliveries that took much longer than expected. By flagging these outliers, we can investigate whether they were caused by system inefficiencies or external factors (such as weather or traffic incidents).
